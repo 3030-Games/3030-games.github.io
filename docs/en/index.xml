@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3030 Games</title>
-    <link>https://example.org/en/</link>
+    <link>https://3030-games.github.io/en/</link>
     <description>Recent content on 3030 Games</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3030-games.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>https://example.org/en/contact/</link>
+      <link>https://3030-games.github.io/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/contact/</guid>
+      <guid>https://3030-games.github.io/en/contact/</guid>
       <description>3030 Games is an independent games development company based in Dundee, Scotland.&#xA;We create fun and innovative games that push boundaries and offer players new and exciting experiences.&#xA;We also offer quality assets at incredible prices to other developers. Check out our assets in the Unity Store!&#xA;As a company we believe in a positive working environment and encourage staff to have as much fun making games as they do playing them.</description>
     </item>
     <item>
       <title>COLD COMMANDER 1991</title>
-      <link>https://example.org/en/games/cold-commander-1991/</link>
+      <link>https://3030-games.github.io/en/games/cold-commander-1991/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/cold-commander-1991/</guid>
+      <guid>https://3030-games.github.io/en/games/cold-commander-1991/</guid>
       <description></description>
     </item>
     <item>
       <title>Ephemera</title>
-      <link>https://example.org/en/games/ephemera/</link>
+      <link>https://3030-games.github.io/en/games/ephemera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/ephemera/</guid>
+      <guid>https://3030-games.github.io/en/games/ephemera/</guid>
       <description></description>
     </item>
     <item>
       <title>Ephemera</title>
-      <link>https://example.org/en/games/king-of-the-drills/</link>
+      <link>https://3030-games.github.io/en/games/king-of-the-drills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/king-of-the-drills/</guid>
+      <guid>https://3030-games.github.io/en/games/king-of-the-drills/</guid>
       <description></description>
     </item>
     <item>
       <title>I-HAMMER</title>
-      <link>https://example.org/en/games/i-hammer/</link>
+      <link>https://3030-games.github.io/en/games/i-hammer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/i-hammer/</guid>
+      <guid>https://3030-games.github.io/en/games/i-hammer/</guid>
       <description></description>
     </item>
     <item>
       <title>Slimes ($15)</title>
-      <link>https://example.org/en/assets/slimes/</link>
+      <link>https://3030-games.github.io/en/assets/slimes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/assets/slimes/</guid>
+      <guid>https://3030-games.github.io/en/assets/slimes/</guid>
       <description></description>
     </item>
   </channel>

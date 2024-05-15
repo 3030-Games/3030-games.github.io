@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Games on 3030 Games</title>
-    <link>https://example.org/en/games/</link>
+    <link>https://3030-games.github.io/en/games/</link>
     <description>Recent content in Our Games on 3030 Games</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/en/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3030-games.github.io/en/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COLD COMMANDER 1991</title>
-      <link>https://example.org/en/games/cold-commander-1991/</link>
+      <link>https://3030-games.github.io/en/games/cold-commander-1991/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/cold-commander-1991/</guid>
+      <guid>https://3030-games.github.io/en/games/cold-commander-1991/</guid>
       <description></description>
     </item>
     <item>
       <title>Ephemera</title>
-      <link>https://example.org/en/games/ephemera/</link>
+      <link>https://3030-games.github.io/en/games/ephemera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/ephemera/</guid>
+      <guid>https://3030-games.github.io/en/games/ephemera/</guid>
       <description></description>
     </item>
     <item>
       <title>Ephemera</title>
-      <link>https://example.org/en/games/king-of-the-drills/</link>
+      <link>https://3030-games.github.io/en/games/king-of-the-drills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/king-of-the-drills/</guid>
+      <guid>https://3030-games.github.io/en/games/king-of-the-drills/</guid>
       <description></description>
     </item>
     <item>
       <title>I-HAMMER</title>
-      <link>https://example.org/en/games/i-hammer/</link>
+      <link>https://3030-games.github.io/en/games/i-hammer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/en/games/i-hammer/</guid>
+      <guid>https://3030-games.github.io/en/games/i-hammer/</guid>
       <description></description>
     </item>
   </channel>
