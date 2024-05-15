@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/en/</loc>
+  </url><url>
+    <loc>https://example.org/en/contact/</loc>
+  </url><url>
+    <loc>https://example.org/en/categories/</loc>
+  </url><url>
+    <loc>https://example.org/en/games/cold-commander-1991/</loc>
+  </url><url>
+    <loc>https://example.org/en/games/ephemera/</loc>
+  </url><url>
+    <loc>https://example.org/en/games/king-of-the-drills/</loc>
+  </url><url>
+    <loc>https://example.org/en/games/i-hammer/</loc>
+  </url><url>
+    <loc>https://example.org/en/assets/</loc>
+  </url><url>
+    <loc>https://example.org/en/games/</loc>
+  </url><url>
+    <loc>https://example.org/en/assets/slimes/</loc>
+  </url><url>
+    <loc>https://example.org/en/tags/</loc>
+  </url>
+</urlset>
